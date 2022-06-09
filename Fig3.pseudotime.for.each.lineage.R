@@ -472,7 +472,7 @@ save(MCLig.combined, pseudo.MCLig, LHEAD_Ligands, LHEAD_Receptors, LHEAD_TF, LHE
 save(pseudo.MCLig, LIST1, LIST2,
 	big_cds, file="step7-shockwaves/cds.and.pseudo.and.wave-sigs.MCLig.RData")
 
-source("step7.helper.TRENDPLOT.R")
+source("../helpers/step7.helper.TRENDPLOT.R")
 
 pdf(paste0("step7-shockwaves/MCLig.",NumWave,".waves.trendline.loess.pdf"), width=12)
 	LIST1<-list("Ligands"=LHEAD_Ligands, "Receptors"=LHEAD_Receptors, "TF"=LHEAD_TF, "ECM"=LHEAD_ECM)
