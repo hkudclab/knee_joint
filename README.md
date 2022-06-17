@@ -29,4 +29,4 @@ Email: cwilson@hku.hk, Tel.: +852 3917 2818<br>
 Check out the interative web interface for the processed data at: https://www.sbms.hku.hk/dclab/knee_joint/
 
 # RAW data
-The raw data has been deposited at NCBI GEO with these accession numbers: GSE130919 (for mouse KJ14.5)
+The raw scRNA-seq data for the mouse E12.5, E13.5, E15.5, E18.5 and P5 samples used in this study were deposited on the NCBI GEO database with accession number GSE206303. Mouse E14.5 KJ (GSE130919) and M/P1 digit joint (GSE183253) datasets were previously published and available on GEO database.
